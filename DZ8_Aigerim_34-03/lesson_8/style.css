@@ -1,0 +1,26 @@
+.movie__table{
+    text-align: center;
+    width: 1000px;
+    border: green;
+    box-sizing: border-box;
+    padding: 40px;
+}
+.box__name{
+    padding: 20px;
+    margin: 10px;
+    background-color: orange;
+}
+.box{
+    padding: 20px;
+}
+.movie__info{
+    background-color: wheat;
+}
+.info{
+    padding: 20px;
+}
+*{
+    font-family: sans-serif;
+}
+
+
